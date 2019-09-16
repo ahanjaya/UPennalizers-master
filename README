@@ -15,7 +15,9 @@ generalized and versatile robot software framework.
 This is a work of the University of Pennsylvania along with help from:
   * IPRE faculty and students: http://calicoproject.org/Main_Page
   * RoMeLa at Virginia Tech: http://www.romela.org/main/Robotics_and_Mechanisms_Laboratory
-
+  
+Installation Tutorial:
+https://github.com/UPenn-RoboCup/UPennalizers/wiki/DARwIn-OP-Setup
 
 Documentation:
   The GitHub Wiki hosts the main source of documentation for this project:
